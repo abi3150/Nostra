@@ -2,11 +2,6 @@
 
 Nostra is a modern and responsive fashion e-commerce website built using HTML, CSS, JavaScript, and Tailwind CSS. The website provides an attractive shopping experience with product showcases, brand listings, special offers, and newsletter subscriptions.
 
-## 🌐 Live Demo
-
-View the live project here:
-
-https://abi3150.github.io/Nostra/
 
 ---
 
